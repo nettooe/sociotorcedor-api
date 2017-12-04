@@ -14,7 +14,7 @@ Você precisará somente ter o [Java 8 JDK](http://www.oracle.com/technetwork/pt
 Para instalar e executar o projeto localmente, basta [clonar o projeto](https://help.github.com/articles/cloning-a-repository/) e executar. Para isto, abra o terminal no seu linux e execute os comandos:
 ```
 $ git clone git@github.com:nettooe/sociotorcedor-api.git
-$ cd campanha-git
+$ cd sociotorcedor-api
 $ ./mvnw clean install spring-boot:run
 ```
 
